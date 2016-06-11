@@ -1,0 +1,8 @@
+.settings
+/autocode
+/nonautocode
+/taihi*
+.classpath
+.project
+*.arff
+*.txt
